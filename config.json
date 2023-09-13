@@ -1,0 +1,26 @@
+{
+    "status": "Watching The Gamers Videos`",
+    "prefix": ".",
+    "token": "MTE1MDgxMDU0MTU4NjEzNzA4OQ.GIVDYW.75agvQ4G5nOYZmEtyLou6JqC40Xj47ZWR-xj6Q",
+    "dburl": "mongodb+srv://triggeredgamerxdiscord:Anupam@cluster0.vhdwxmy.mongodb.net/?retryWrites=true&w=majority",
+    "clientId": "1150810541586137089",
+    "ownerID": "1063691309782675566",
+    "genChannel": "1150820142792585336",
+    "pgenChannel": "1150825675016646696",  
+    "genCooldown": "120000",
+    "genCooldownsec": "600",
+    "pgenrole": "1150826088591806494",
+    "freegenrole": "1150825910233202789",
+    "stocker": "1150805013355044864",
+    "gifurl": "https://cdn.discordapp.com/attachments/1123604457503084544/1123605879925788702/standard.gif",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
